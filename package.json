@@ -1,0 +1,21 @@
+{
+  "name": "peoplepass_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapegka1/peoplepass_tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sapegka1/peoplepass_tests/issues"
+  },
+  "homepage": "https://github.com/sapegka1/peoplepass_tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.19.2"
+  }
+}
